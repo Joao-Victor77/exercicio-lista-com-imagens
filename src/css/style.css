@@ -20,17 +20,13 @@ main {
 
 
 
-.pinturas,
-.pintura {
+.pinturas .pintura {
     width: 335px;
     height: 431px;
     position: relative;
 }
 
 
-
-.pinturas,
-.pintura,
 .info {
    position: absolute;
     color: #ffffffff;
@@ -39,19 +35,13 @@ main {
 }
 
 
-.pinturas,
-.pintura,
-.info,
-.titulo {
+.pinturas .pintura .info .titulo {
     font-size: 30px;
     margin-bottom: 8px;
     font-weight: 700;
 }
 
-.pinturas,
-.pintura,
-.info,
-.subtitulo {
+.pinturas .pintura .info .subtitulo {
     font-size: 17px;
     font-weight: 300;
 }
